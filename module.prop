@@ -1,0 +1,6 @@
+id=xiaomi13t_fastcharge_fix
+name=Xiaomi 13T 67W Turbo Charge Fix (HyperOS 3)
+version=v1.0
+versionCode=100
+author=Nvdorman
+description=Fixes 67W Turbo Fast Charging capped at 10W on Xiaomi 13T (mt6895 / aristotle) running HyperOS 3 with replacement batteries (Rakkipanda etc). Decouples aggressive thermal throttling on cooling_device4 and enforces accelerate_charge.
